@@ -22,6 +22,43 @@ Morgan Rohan (link to github, linked in)
 
 
 ## Description
+### Purpose
+### Functionality and Features
+### Target Audience
+
+### Tech Stack
+#### Front-end:
+- HTML
+- JavaScript
+- CSS
+- React
+
+#### Back-end:
+- Express
+- Node.js 
+
+#### Database:
+- MongoDB
+- Mongoose
+
+#### Deployment:
+
+
+#### Project Management Tools:
+- Trello
+- Discord
+
+#### DevOps Tools:
+- Git
+- GitHub
+- Visual Studio Code
+
+#### Design Tools:
+- Balsamiq
+- Lucidchart
+- Miro
+
+
 ## Dataflow Diagram
 ## Application Archtecture
 ## User Stories
