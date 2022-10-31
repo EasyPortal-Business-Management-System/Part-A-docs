@@ -23,8 +23,30 @@ Morgan Rohan (link to github, linked in)
 
 ## Description
 ### Purpose
+
+Manage, calculate and display employees payroll and scheduling activities.
+
 ### Functionality and Features
+
+- Employee Log in to view own profile
+- Employer log in to view own profile
+- Set up profile by answering series of questions (stores data and retrieves data based on responses) - Sign up process
+- ‘At a glance’ graphics
+- View worked hours
+- View estimated pay
+- View accrued leave
+- View performance review
+- Upload documents (police check, identity check, employer references)
+- Submit leave request
+- Access to employee register and overview (For employer login)
+- Upload performance review 
+- Roster employees
+
+
 ### Target Audience
+
+Businesses that have casual, part time and full time employees that have irregular working hours. 
+
 
 ### Tech Stack
 #### Front-end:
@@ -103,6 +125,34 @@ The user stories below are focused on the needs and experiences of the employees
 - As a casual worker, I want to easily view changes to my roster, so that I can make plans with friends. 
 
 ## Wireframes
+
+Homepage - Desktop
+![Homepage Desktop](docs/Wireframes/HompageDesktop.png)
+
+Homepage - Tablets and Mobile
+![Homepage Tablets and Mobile](docs/Wireframes/HomepageTablets-and-Mobile.png)
+
+Sign up - Desktop
+![Sign up - Desktop](docs/Wireframes/SignUp-Desktop.png)
+
+Sign up - Tablets and Mobile
+![Sign up - Tablets and Mobile](docs/Wireframes/SignUpTablets-and-Mobile.png)
+
+Login - Desktop
+![Login - Desktop](docs/Wireframes/LoginDesktop.png)
+
+Login - Tablets and Mobile
+![Login - Tablets and Mobile](docs/Wireframes/LoginTablets-and-Mobile.png)
+
+Main Dashboard Admin (Employer) - Desktop only
+![Main Dashboard Admin (Employer) - Desktop only](docs/Wireframes/Dashboard-Admin.png)
+
+Main Dashboard Employee - Desktop
+![Main Dashboard Employee - Desktop](docs/Wireframes/DashboardDesktop-Employee.png)
+
+
+Main Dashboard Employee - Tablets and Mobile
+![Main Dashboard Employee - Tablets and Mobile](docs/Wireframes/DashboardEmployee-Tablets-and-Mobile.png)
 
 ## Project Management
 The team started off with an initial brainstorming session to land on an application concept and functions. From this we decided to that project management for the application would be done primarily through a Trello board, updated daily, and other communication through Discord. 
