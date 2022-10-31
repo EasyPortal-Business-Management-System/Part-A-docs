@@ -24,7 +24,11 @@ Morgan Rohan (link to github, linked in)
 ## Description
 ### Purpose
 
-Manage, calculate and display employees payroll and scheduling activities.
+The purpose of this web app is to manage, calculate and display employees' payroll and scheduling activities. Both employer and employee will be able to see the rostering schedules of the week, and total pay of the working week and send documents to each other as needed. Hence, it makes it easier for the employer and employee to understand their rosters and prevent miscommunication. 
+
+
+"EasyPortal seeks to solve how these issues can impact smaller businesses, where these responsibilities often fall to only one or two people and can be very time consuming. Owners or managers of these businesses need an easy-to-use system to help reduce time tied up with administrative duties. Employees of these businesses can also benefit from more direct communication and less confusing information about important factors such as rostered shifts and pays."
+
 
 ### Functionality and Features
 
@@ -45,7 +49,12 @@ Manage, calculate and display employees payroll and scheduling activities.
 
 ### Target Audience
 
-Businesses that have casual, part time and full time employees with irregular working hours. 
+Three main targets:
+- Businesses that have casual, part time and full time employees that have irregular working hours.
+
+- Employer will be able to roster their employees easily and provide understanding which employees will be working through out the week.
+
+- Employees will able to use this portal that has an interactive and fun design, so that employee will easily be able to understand their rosters and payroll summary for better clarity and avoid confusion.
 
 
 ### Tech Stack
