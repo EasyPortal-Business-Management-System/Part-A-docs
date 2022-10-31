@@ -45,7 +45,7 @@ Manage, calculate and display employees payroll and scheduling activities.
 
 ### Target Audience
 
-Businesses that have casual, part time and full time employees that have irregular working hours. 
+Businesses that have casual, part time and full time employees with irregular working hours. 
 
 
 ### Tech Stack
